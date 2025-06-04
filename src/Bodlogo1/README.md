@@ -69,7 +69,7 @@ n!-ийн утгыг хэвлэнэ.
 25! = 25 × 24 × 23 × … × 1 ийм байдлаар үр дүн гарна.
  
 <p align="center">
-<img src="src/image/bodlogo1.png" alt="Bodlogo1" width="full"/>
+<img src="image/bodlogo1.png" alt="Bodlogo1" width="full"/>
 </p>
  
 ---
