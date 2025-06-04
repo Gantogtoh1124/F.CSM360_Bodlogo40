@@ -1,18 +1,45 @@
-## Getting Started
+## Өгөгдсөн бүхэл тооны факториалыг тооцоолж, хэвлэ.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Жишээлбэл, хэрэв n=30 бол бид 30×29×28×⋯×2×1-ийг тооцоолж, 265252859812191058636308480000000-ийг авна.
 
-## Folder Structure
+Функцийн тайлбар
 
-The workspace contains two folders by default, where:
+Доорх редактор дахь extraLongFactorials функцийг гүйцээ. Энэ нь үр дүнг хэвлээд буцаах ёстой.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+extraLongFactorials нь дараах параметртэй:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+n: бүхэл тоо
+Тэмдэглэл: n>20-ийн факториалыг 64 битийн урт хувьсагчид ч хадгалах боломжгүй. Ийм тооцоололд том бүхэл тоо (Big Integers) ашиглах ёстой. Java, Python, Ruby гэх мэт хэлнүүд том бүхэл тоог зохицуулж чаддаг боловч C/C++-д том утгуудыг зохицуулахын тулд нэмэлт код бичих шаардлагатай.
+Бид энэ даалгаврыг BigIntegers ашиглан шийдэхийг зөвлөж байна.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Оролтын формат
 
-## Dependency Management
+Оролт нь нэг бүхэл тоо n-ээс бүрдэнэ.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Хязгаарлалтууд
+
+1≤n≤100
+
+Гаралтын формат
+
+n-ийн факториалыг хэвлэ.
+
+Жишээ оролт
+
+25
+
+Жишээ гаралт
+
+15511210043330985984000000
+
+Тайлбар
+
+25!=25×24×23×⋯×3×2×1
+
+
+
+
+
+
+
+
