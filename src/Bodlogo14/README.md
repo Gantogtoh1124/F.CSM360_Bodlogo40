@@ -48,6 +48,10 @@ i
 2
  =40000.
 
+ 
+<p align="center">
+  <img src="../image/bodlogo1.png" alt="Bodlogo14" width="100%"/>
+</p>
 
 
 
