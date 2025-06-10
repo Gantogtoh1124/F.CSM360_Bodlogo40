@@ -56,3 +56,7 @@ three o' clock
 Жишээ гаралт 2
 
 quarter past seven
+
+<p align="center">
+  <img src="../image/src/image - Copy/bodlogo3.png" alt="Bodlogo1" width="100%"/>
+</p>
