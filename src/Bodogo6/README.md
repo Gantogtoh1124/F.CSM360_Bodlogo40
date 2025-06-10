@@ -66,6 +66,10 @@ i
 9
  +7)=4 гэсэн утгыг шинэ мөрөнд хэвлэнэ.
 
+ <p align="center">
+  <img src="../image/bodlogo6.png" alt="Bodlogo1" width="100%"/>
+</p>
+
 
 
 
