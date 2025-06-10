@@ -58,5 +58,5 @@ three o' clock
 quarter past seven
 
 <p align="center">
-  <img src="../image/src/image - Copy/bodlogo3.png" alt="Bodlogo1" width="100%"/>
+  <img src="../image/bodlogo3.png" alt="Bodlogo1" width="100%"/>
 </p>
