@@ -1,7 +1,7 @@
 ### Бодлого №1
  
 ## Algorithms-Medium-Extra Long Factorials
- 
+https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true
 n бүхэл тооны факториал гэж n! гэж бичдэг бөгөөд дараах байдлаар тодорхойлогдоно:
  
 n! = n × (n-1) × (n-2) × … × 3 × 2 × 1
